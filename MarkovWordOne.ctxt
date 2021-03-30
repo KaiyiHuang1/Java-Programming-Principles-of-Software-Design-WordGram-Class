@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MarkovWordOne
+comment1.params=
+comment1.target=MarkovWordOne()
+comment2.params=seed
+comment2.target=void\ setRandom(int)
+numComments=3
